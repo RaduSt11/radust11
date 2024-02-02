@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a DevOps Engineer;
+- 🌱 I know Bash/Powershell/Kubertnes/Azure Devops/Jenkins;
+- 👯 I’m looking for new projects;
+
+
 <!--
 **RaduSt11/radust11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
